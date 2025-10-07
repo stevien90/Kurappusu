@@ -1,0 +1,1 @@
+uvicorn main:app --reload ---- let you test your backend api with swagger UI

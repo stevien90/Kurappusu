@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+#personal files
+personal note.txt
+users.csv
