@@ -1,1 +1,7 @@
 uvicorn main:app --reload ---- let you test your backend api with swagger UI
+git add .
+git commit -m "Some changes"
+git push
+
+vercel - to deploy frontend
+render - to deploy back end
