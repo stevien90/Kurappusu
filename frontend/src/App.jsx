@@ -15,14 +15,14 @@ import {
   rollDice,
   fetchStats,
   clearSession,
-} from "../../frontendreact/src/api";
+} from "../../frontend/src/api";
 
 import FieldWay from "./components/FieldWay";
 import HornBets from "./components/HornBets";
 import HardWays from "./components/HardWays";
 import HotColdSummary from "./components/HotColdSummary";
-import DiceSelector from "../../frontendreact/src/components/DiceSelector";
-import RollHistory from "../../frontendreact/src/components/RollHistory";
+import DiceSelector from "../../frontend/src/components/DiceSelector";
+import RollHistory from "../../frontend/src/components/RollHistory";
 
 function EmpiricalBarGraph({ probabilities }) {
   return (

@@ -2,7 +2,6 @@ import React from "react";
 import { Box, Typography, Paper } from "@mui/material";
 
 export default function RollHistory({ rolls }) {
-  const lastRoll = rolls[0]?.value ?? null;
 
   return (
     <Box
