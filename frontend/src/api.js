@@ -1,4 +1,5 @@
-const BASE_URL = "http://localhost:8000";
+//const BASE_URL = "http://localhost:8000"; // for local development
+const BASE_URL = "https://kurappusu-1.onrender.com";
 
 export async function register(username, password) {
   const form = new FormData();

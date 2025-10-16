@@ -37,8 +37,3 @@ venv/
 # IDE/editor folders
 .vscode/
 .idea/
-
-
-#personal files
-personal note.txt
-users.csv
